@@ -2,8 +2,8 @@
 
 > Paste company websites → define your Ideal Customer Profile → get enriched, validated and AI-ranked leads ready for outreach and CRM import.
 
-**Live demo:** _add your Vercel URL here_
-**Video walkthrough:** _add your video link here_
+**Live demo:** https://ai-lead-qualifier-for-saa-squatch.vercel.app
+**Video walkthrough:** https://drive.google.com/file/d/1-55tsqOJ4t7yv_EdzF2VdMZpKPAYjpKq/view?usp=sharing
 
 ---
 
